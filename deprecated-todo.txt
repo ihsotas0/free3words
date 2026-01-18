@@ -1,0 +1,20 @@
+(A) Initialize online repo +deploy
+(B) Fix de/encoding not giving 5 decimal place precision coords +python
+(B) Fix some coords not decoding properly +python
+(B) Update universal documentation +docs
+(C) Update dependencies +python
+(C) Rewrite int <-> b32 +python
+Add acknowledgements for external libraries (including licenses) +legal
+Add overload encode()/decode() for elevation with 4 words +python
+Simplify code +python
+Add Python CLI for testing +python +testing
+Create PyPi package +python +deploy
+Figure out legal issues with What3Words +legal
+Inverse square law issues with elevation encoding?
+Rewrite testing script for universal support +testing
+Update en_us.txt with acknowledgements +legal
+Update Python docs to have actual example values +python +docs
+Use Geohash (PyPi) instead of pygeohash +python
+en -> en_us schema
+word-list -> word_list schema (including file -> memory loading path, all langs)
+``` lang -> ```lang
