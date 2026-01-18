@@ -2,13 +2,11 @@
 
 Open-source implementation of https://what3words.com using Geohashing. Creates 3 word codes for any location on Earth with ~2.4 meters of precision. A fourth word can be added to encode elevation.
 
-Documentation and required dependencies can be found in [`/doc`](./doc/).
-
-Version: v0.1.0
-
 All Free3Words content and documentation is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 *No What3Words intellectual property is used in Free3Words code or content.*
+
+![Example](ex1.png)
 
 # License #
 
